@@ -298,7 +298,13 @@ representative <<include>> relationships shown.
 
 ### 7.1 UML Use-Case diagrams
 
-![Figure 1 and Figure 2 — UML Use-Case Diagrams](images/use-case-diagrams-page9.png)
+### Figure 1 — Patient / Reception Use-Case Diagram
+
+![Figure 1 — Patient / Reception Use-Case Diagram](images/use-case-diagram-patient-reception.png)
+
+### Figure 2 — Staff Use-Case Diagram
+
+![Figure 2 — Staff Use-Case Diagram](images/use-case-diagram-staff.png)
 
 ## 8. Requirements Traceability Matrix (RTM)
 
