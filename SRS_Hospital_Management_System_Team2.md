@@ -346,6 +346,4 @@ Every requirement in Sections 4 and 5 is traced below to its defining section, i
 | HMS-SR-004 | Audit trail on records/billing | 5.1.2 | AuditModule | TC-Sec-05 | N |  |
 | HMS-SR-005 | Restrict DB access / encrypt sensitive fields | 5.1.2 | DataAccessModule | TC-Sec-06 | N |  |
 
-### Clean Matrix View
 
-![Requirements Traceability Matrix - Clean View](images/rtm-clean.png)
